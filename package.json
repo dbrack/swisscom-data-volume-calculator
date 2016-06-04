@@ -5,14 +5,14 @@
   "main": "volume.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dbrack/swisscom-data-usage-calculator.git"
+    "url": "git+https://github.com/dbrack/swisscom-data-volume-calculator"
   },
   "author": "Dominik Brack",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dbrack/swisscom-data-usage-calculator/issues"
+    "url": "https://github.com/dbrack/swisscom-data-volume-calculator/issues"
   },
-  "homepage": "https://github.com/dbrack/swisscom-data-usage-calculator#readme",
+  "homepage": "https://github.com/dbrack/swisscom-data-volume-calculator#readme",
   "devDependencies": {
     "babel-cli": "^6.9.0",
     "babel-preset-es2015": "^6.9.0"
